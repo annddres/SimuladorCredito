@@ -13,12 +13,12 @@ function initAd(){
     if ( window.plugins && window.plugins.AdMob ) {
     	var ad_units = {
 			ios : {
-				banner: 'ca-app-pub-7272005083273779/8618456584',
-				interstitial: 'ca-app-pub-7272005083273779/5183388850'
+				banner: 'xxx',
+				interstitial: 'xxx'
 			},
 			android : {
-				banner: 'ca-app-pub-7272005083273779/8618456584',
-				interstitial: 'ca-app-pub-7272005083273779/5183388850'
+				banner: 'xxx',
+				interstitial: 'xxx'
 			}
     	};
     	var admobid = "";
